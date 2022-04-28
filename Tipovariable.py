@@ -7,3 +7,6 @@ print (type(VarNum2))
 VarABC = "Ornitorrinco"
 print (VarABC)
 print (type(VarABC))
+VarBoolean = True
+print (VarBoolean)
+print (type(VarBoolean))
